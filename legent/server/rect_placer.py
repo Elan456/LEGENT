@@ -1,5 +1,5 @@
 from typing import Tuple
-from pyqtree import Index
+from fastquadtree.pyqtree import Index
 
 
 class RectPlacer:
